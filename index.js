@@ -40,8 +40,3 @@ submit.addEventListener("click", function(e) {
         }
     }
 });
-
-submit2.addEventListener("click", function(e) {
-    e.preventDefault();
-    window.location.href = "gameResults.html";
-});
